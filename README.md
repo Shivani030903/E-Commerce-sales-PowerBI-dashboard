@@ -55,7 +55,9 @@ Performed using Python:
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+<h2>Dashboard Preview</h2>
+
+<img src="Dashboard.png" width="1000">
 
 ---
 
